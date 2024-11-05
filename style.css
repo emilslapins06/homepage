@@ -1,0 +1,6 @@
+body {min-height: 100vh; background-color: lightslategray;}
+header {text-align: center; background-color: whitesmoke}
+main {text-align: center;}
+footer {text-align: center; margin-top: 50vh; background-color: lightslategray}
+aside {float: right;}
+nav {float: left;}
